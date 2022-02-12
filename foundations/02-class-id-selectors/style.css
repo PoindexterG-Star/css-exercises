@@ -1,6 +1,6 @@
-p {
+.oddNumbers {
     background-color: rgb(241, 154, 125);
-    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #no2 {
@@ -8,7 +8,7 @@ p {
     font-size: 36px;
  }
 
-#no3 {
+.coolerclass {
     font-size: 24px;
 }
 

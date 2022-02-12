@@ -2,6 +2,7 @@ p {
     background-color: rgb(241, 154, 125);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
- div {
-
+ #no2 {
+    color: blue;
+    font-size: 36px;
  }

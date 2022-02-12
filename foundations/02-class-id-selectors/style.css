@@ -2,10 +2,18 @@ p {
     background-color: rgb(241, 154, 125);
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
+
 #no2 {
     color: blue;
     font-size: 36px;
  }
+
 #no3 {
     font-size: 24px;
+}
+
+#no4 {
+    background-color: rgb(53, 145, 53);
+    font-size: 24px;
+    font-weight: bold;
 }

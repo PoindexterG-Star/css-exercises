@@ -52,7 +52,24 @@ body {
   padding: 16px;
   box-sizing: border-box;
 }
+
+.content-cards {
+  padding: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+}
+
+.card {
+  max-width: 300px;
+  padding: 10px;
+}
+
 a {
   color: white;
   text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
 }

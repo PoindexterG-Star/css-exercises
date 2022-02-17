@@ -50,6 +50,8 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 16px;
 }
 
 .left-item {
@@ -58,4 +60,5 @@ ul {
 
 .right-item {
     display: flex;
+    gap: 16px;
 }
